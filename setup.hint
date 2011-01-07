@@ -1,0 +1,5 @@
+category: PHP
+requires: php
+sdesc: "PHP command-line option parser class"
+ldesc: "This is a PHP implementation of getopt(3) supporting both short 
+and long options."
