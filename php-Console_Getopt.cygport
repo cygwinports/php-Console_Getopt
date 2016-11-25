@@ -2,7 +2,7 @@ PHP_CHANNEL=pear
 inherit php
 
 NAME="php-Console_Getopt"
-VERSION=1.4.0
+VERSION=1.4.1
 RELEASE=1
 CATEGORY="PHP"
 SUMMARY="PHP command-line option parser class"
